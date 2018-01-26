@@ -6,7 +6,7 @@ El programa en el que realizamos un rutina de gimnasio en el cual pidiendo el di
 Me gusta porque modificandolo y ampliandolo un poco podia ser un programa util para personalizar tus entrenamientos.
 
 ```java
- *   Escribe un programa que genere la tabla de entrenamiento de un usuario de un gimnasio. El programa
+ /**   Escribe un programa que genere la tabla de entrenamiento de un usuario de un gimnasio. El programa
  *   debe pedir el día de la semana (de lunes a domingo) y debe mostrar de forma aleatoria la secuencia
  *   del entrenamiento en función de las siguientes pautas:
  *   a) El entrenamiento empieza siempre con un calentamiento aeróbico que puede ser bicicleta,
