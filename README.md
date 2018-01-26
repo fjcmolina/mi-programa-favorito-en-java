@@ -1,6 +1,6 @@
 # mi-programa-favorito-en-java
 
-##Gimnasio
+## Gimnasio
 
 El programa en el que realizamos un rutina de gimnasio en el cual pidiendo el dia sabemos el entrenamiento que debemos realizar.
 Me gusta porque modificandolo y ampliandolo un poco podia ser un programa util para personalizar tus entrenamientos.
