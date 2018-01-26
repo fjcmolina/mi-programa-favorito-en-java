@@ -61,9 +61,9 @@ public class Gym {
     }
       
       
-    if (!entrenamiento) 
+    if (!entrenamiento) {
       System.out.println ("Hoy es dia de descanso.");
-        
+    }
     if (entrenamiento) {
         
       calentamiento = (int)((Math.random() * 3) + 1);
